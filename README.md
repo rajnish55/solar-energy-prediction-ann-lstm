@@ -5,7 +5,7 @@
 - Aim:- to predict the **next hour** and **next 6 hours** of AC power output from solar panels using:
   1.  **Artificial Neural Network (ANN)** for baseline prediction.
   2. **Long Short-Term Memory (LSTM)** for sequential time-series forecasting.
-  3. 
+   
 ### Dataset
 **Source:** [Solar Power Generation Data (Kaggle)](https://www.kaggle.com/datasets/anikannal/solar-power-generation-data)  
 **Description:**  
